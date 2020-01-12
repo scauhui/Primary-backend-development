@@ -13,6 +13,7 @@
 - Wox（快速检索）：[http://www.wox.one/](http://www.wox.one/)
 - Everything（搭配Wox检索的插件，直接安装打开用即可（在wox要开启插件使用））：[https://everything.en.softonic.com/](https://everything.en.softonic.com/)
 - Markdown（md文件编写）：[http://markdownpad.com/download.html](http://markdownpad.com/download.html)
+- Snipaste（快速便捷截屏）：https://www.snipaste.com/
 
 
 关于Python的库以及第三方包的安装大致有如下几种：
