@@ -1,4 +1,4 @@
-## Ajax dynamically requests web content：
+## Ajax dynamically requests web content（Ajax动态获取网页内容）：
 
 节前准备：**安装requests，urllib，pyquery库**
 
