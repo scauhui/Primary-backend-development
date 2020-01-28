@@ -1,4 +1,4 @@
-## Selenium:
+## Selenium（模拟浏览器）:
 
 节前准备：安装好selenium库以及ChromeDriver（首先确保安装好chrome），因为只有安装 ChromeDriver ，才能驱动 Chrome 浏览器完成相应的操作。**请记住 Chrome 版本号，因为选择 ChromeDriver 版本时需要用到**安装如下：
 
